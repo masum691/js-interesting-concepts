@@ -10,8 +10,6 @@ double equal convert korar somoy true k 1 bani, false k 0 banai
 === check kore type and value soman ki na
 most of the case soman ki na compare korle === use korte hobe
 
-explesive conversion - nije kore dewa
-
 */
 
 // const first = 2;
